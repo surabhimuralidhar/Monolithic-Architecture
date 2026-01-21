@@ -1,7 +1,7 @@
 #   Monolithic Architecture (FastAPI)
 
 ## Name:
-Surabhi M   
+Surabhi M  
 
 ## Description
 This project demonstrates a monolithic web application built using FastAPI for Cloud Computing Lab 2. All functionalities such as registration, login, events, my-events, and checkout are implemented in a single codebase and deployed as one unit.
